@@ -1,5 +1,5 @@
 # Landing-Page-Design
-A Responsive Landing Page design created using HTML,CSS & BOOTSTRAP.
+A Responsive Landing Page design  using HTML,CSS & BOOTSTRAP.
 
 This Repo contains two landing pages:- 
 
