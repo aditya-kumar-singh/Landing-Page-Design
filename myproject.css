@@ -1,0 +1,35 @@
+body{
+	background:url(https://source.unsplash.com/YWAVTqGnyjI);
+	background-size: cover;
+	background-position: center;
+	font-family: Lato;
+
+	/* colour for h1 and h3 can be given here too it wouldn't affect button */
+}
+
+#content{
+	padding-top: 25%;
+	text-align: center;
+	
+	color: white;
+
+
+	/* For text-shadow*/
+	/*text-shadow:0px 3px 4px Green, 0px 8px 13px Orange, 0px 18px 23px yellow;*/
+
+	text-shadow:0px 3px 4px rgba(0,0,0,0.4), 0px 8px 13px rgba(0,0,0,0.1), 0px 18px 23px rgba(0,0,0,0.4);
+}
+
+h1{
+	font-weight: 700px;
+	font-size: 5.0em
+}
+html{
+	height: 100%
+}
+
+hr{
+	width: 475px;
+	border-top:1px solid #f8f8f8;
+	border-bottom: 1px solid rgba(0,0,0,0.2);
+}
